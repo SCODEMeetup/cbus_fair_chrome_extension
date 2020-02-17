@@ -6,6 +6,13 @@ Before getting into the spec, please review the [Code of Conduct](CODE_OF_CONDUC
 **WHAT IS IT?**
 - A Chrome extension that rates bus route accessibility compared to a business's operating hours. 
 
+**WHO IS IT FOR?**
+- Here is a *Target User* sketch from the uber talented Mark Sun:
+
+<div style="height:75vh;">
+    <img src="images/user_sketch.png">
+   </div>
+
 **HOW IT WORKS**
 
 1. A user seraches for a business on Google, for example, SŌW Plated, *a **really** delicious restaurant in Upper Arlington.*
