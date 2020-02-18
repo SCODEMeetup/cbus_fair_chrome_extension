@@ -1,0 +1,1 @@
+//Default content script - This is the only file that has access to the DOM
