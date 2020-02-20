@@ -9,8 +9,13 @@ Before getting into the spec, please review the [Code of Conduct](CODE_OF_CONDUC
 **WHO IS IT FOR?**
 - Here is a *Target User* sketch from the uber talented Mark Sun:
 
-<div style="height:75vh;">
+  <div style="height:75vh;">
     <img src="images/user_sketch.png">
+   </div>
+   
+- Blake's *Journey Map*:
+   <div style="height:75vh;">
+    <img src="images/journey_map_blake.png">
    </div>
 
 **HOW IT WORKS**
