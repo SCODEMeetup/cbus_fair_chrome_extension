@@ -6,7 +6,7 @@ console.log(`Google detected...`) //DEBUG - Remove for production
 
 let rawPageInfo = [...document.getElementsByClassName("mod")];
 
-rawPageInfo.forEach(element => {
+rawPageInfo.forEach(element, index => {
   let string = element.textContent;
 
   if(string.includes("Address")){
